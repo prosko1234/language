@@ -10,7 +10,7 @@ MainSection:NewButton("English", "language", function()
 end)
 
 MainSection:NewButton("Українська", "мова", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/prosko1234/ponhub1/main/ponhub1.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/123qwerty12345/ukraininan/main/ukrainian"))()
 end)
 
 MainSection:NewButton("Русский", "язык", function()
